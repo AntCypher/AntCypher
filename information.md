@@ -1,3 +1,9 @@
+Educrat 
+-------------------------------------------
+
+https://educrat-nextjs.vercel.app/
+
+https://creativelayers.net/themes/educrat-html/index.html
 
 Third Party Js LIbrary 
 -------------------------------------------
